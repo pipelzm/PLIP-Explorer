@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BundleInfo name="ChimeraX-PLIPExplorer" version="0.1.0a4"
+ package="chimerax.plip_explorer" minSessionVersion="1" maxSessionVersion="1"
+ purePython="true">
+ <Categories><Category name="Structure Analysis"/></Categories>
+ <Author>PLIP Explorer contributors</Author>
+ <Email></Email>
+ <URL></URL>
+ <License>MIT</License>
+ <Synopsis>Native PLIP interaction explorer (alpha)</Synopsis>
+ <Description>Local PLIP execution, report import and interactive visualization in ChimeraX.</Description>
+ <Dependencies>
+  <Dependency name="ChimeraX-Core"/>
+  <Dependency name="ChimeraX-UI"/>
+  <Dependency name="ChimeraX-Atomic"/>
+  <Dependency name="ChimeraX-Markers"/>
+  <Dependency name="ChimeraX-StdCommands"/>
+  <Dependency name="ChimeraX-Label"/>
+  <Dependency name="ChimeraX-PDB"/>
+ </Dependencies>
+ <DataFiles>
+  <DataFile>docs/user/tools/*.html</DataFile>
+  <DataFile>examples/*/*.pdb</DataFile>
+  <DataFile>examples/*/*.xml</DataFile>
+ </DataFiles>
+ <Classifiers>
+  <PythonClassifier>Development Status :: 3 - Alpha</PythonClassifier>
+  <ChimeraXClassifier>Tool :: PLIP Explorer :: Structure Analysis :: Analyze and explore PLIP interactions</ChimeraXClassifier>
+ </Classifiers>
+</BundleInfo>

@@ -1,0 +1,23 @@
+test_actual_engine_matches_independent_plip_nohydro (test_core.EngineTests.test_actual_engine_matches_independent_plip_nohydro) ... ok
+test_cancel_and_timeout_terminate_process (test_core.EngineTests.test_cancel_and_timeout_terminate_process) ... ok
+test_existing_result_protected (test_core.EngineTests.test_existing_result_protected) ... ok
+test_nohydro_and_spaces_are_separate_arguments (test_core.EngineTests.test_nohydro_and_spaces_are_separate_arguments) ... ok
+test_python_symlink_keeps_venv_path (test_core.EngineTests.test_python_symlink_keeps_venv_path) ... ok
+test_1eve_real_report_group_centers (test_core.ReportTests.test_1eve_real_report_group_centers) ... ok
+test_1vsn_real_report_coordinate_identity (test_core.ReportTests.test_1vsn_real_report_coordinate_identity) ... ok
+test_bad_center_rejected (test_core.ReportTests.test_bad_center_rejected) ... ok
+test_csv_complete_and_unicode (test_core.ReportTests.test_csv_complete_and_unicode) ... ok
+test_eight_types_and_no_lost_rows (test_core.ReportTests.test_eight_types_and_no_lost_rows) ... ok
+test_empty_site_preserved (test_core.ReportTests.test_empty_site_preserved) ... ok
+test_hbond_reports_donor_acceptor_distance (test_core.ReportTests.test_hbond_reports_donor_acceptor_distance) ... ok
+test_input_scope_validation (test_core.ReportTests.test_input_scope_validation) ... ok
+test_mismatched_pdb_rejected (test_core.ReportTests.test_mismatched_pdb_rejected) ... ok
+test_nonfinite_is_reported_and_omitted (test_core.ReportTests.test_nonfinite_is_reported_and_omitted) ... ok
+test_unknown_type_is_not_silently_ignored (test_core.ReportTests.test_unknown_type_is_not_silently_ignored) ... ok
+test_water_uses_two_legs (test_core.ReportTests.test_water_uses_two_legs) ... ok
+test_wrong_xml_and_entities_rejected (test_core.ReportTests.test_wrong_xml_and_entities_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 1.303s
+
+OK

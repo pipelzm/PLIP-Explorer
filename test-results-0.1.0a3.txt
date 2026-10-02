@@ -1,0 +1,30 @@
+test_bundle_import_is_lazy_and_panel_dispatch_matches_api_v1 (test_bundle.BundleTests.test_bundle_import_is_lazy_and_panel_dispatch_matches_api_v1) ... ok
+test_distributed_wheel_matches_source_and_metadata (test_bundle.BundleTests.test_distributed_wheel_matches_source_and_metadata) ... ok
+test_lifecycle_metadata_has_required_hooks (test_bundle.BundleTests.test_lifecycle_metadata_has_required_hooks) ... ok
+test_actual_engine_matches_independent_plip_nohydro (test_core.EngineTests.test_actual_engine_matches_independent_plip_nohydro) ... skipped 'Set PLIP_TEST_PYTHON for actual PLIP execution'
+test_cancel_and_timeout_terminate_process (test_core.EngineTests.test_cancel_and_timeout_terminate_process) ... ok
+test_existing_result_protected (test_core.EngineTests.test_existing_result_protected) ... ok
+test_nohydro_and_spaces_are_separate_arguments (test_core.EngineTests.test_nohydro_and_spaces_are_separate_arguments) ... ok
+test_python_symlink_keeps_venv_path (test_core.EngineTests.test_python_symlink_keeps_venv_path) ... ok
+test_1eve_real_report_group_centers (test_core.ReportTests.test_1eve_real_report_group_centers) ... ok
+test_1vsn_real_report_coordinate_identity (test_core.ReportTests.test_1vsn_real_report_coordinate_identity) ... ok
+test_bad_center_rejected (test_core.ReportTests.test_bad_center_rejected) ... ok
+test_csv_complete_and_unicode (test_core.ReportTests.test_csv_complete_and_unicode) ... ok
+test_eight_types_and_no_lost_rows (test_core.ReportTests.test_eight_types_and_no_lost_rows) ... ok
+test_empty_site_preserved (test_core.ReportTests.test_empty_site_preserved) ... ok
+test_hbond_reports_donor_acceptor_distance (test_core.ReportTests.test_hbond_reports_donor_acceptor_distance) ... ok
+test_input_scope_validation (test_core.ReportTests.test_input_scope_validation) ... ok
+test_mismatched_pdb_rejected (test_core.ReportTests.test_mismatched_pdb_rejected) ... ok
+test_nonfinite_is_reported_and_omitted (test_core.ReportTests.test_nonfinite_is_reported_and_omitted) ... ok
+test_unknown_type_is_not_silently_ignored (test_core.ReportTests.test_unknown_type_is_not_silently_ignored) ... ok
+test_water_uses_two_legs (test_core.ReportTests.test_water_uses_two_legs) ... ok
+test_wrong_xml_and_entities_rejected (test_core.ReportTests.test_wrong_xml_and_entities_rejected) ... ok
+test_catalog_covers_ui_and_preserves_placeholders (test_i18n.LanguageTests.test_catalog_covers_ui_and_preserves_placeholders) ... ok
+test_language_change_preserves_loaded_state_without_redrawing (test_i18n.LanguageTests.test_language_change_preserves_loaded_state_without_redrawing) ... ok
+test_nested_errors_and_paths_translate_without_altering_values (test_i18n.LanguageTests.test_nested_errors_and_paths_translate_without_altering_values) ... ok
+test_packaged_examples_match_reference_and_csv_is_language_independent (test_i18n.LanguageTests.test_packaged_examples_match_reference_and_csv_is_language_independent) ... ok
+
+----------------------------------------------------------------------
+Ran 25 tests in 0.309s
+
+OK (skipped=1)
