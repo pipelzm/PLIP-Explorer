@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="plipex-logo.png" alt="PLIP-Explore" width="760">
+</p>
+
 # PLIP-Explore GUI
 
 An UCSF ChimeraX plugins and GUI for PLIP.
