@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="plipex-logo.png" alt="PLIP-Explore" width="760">
+  <img src="plipex-minilogo.png" alt="PLIP-Explore" width="760">
 </p>
 
 # PLIP-Explore GUI
